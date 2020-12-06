@@ -1,0 +1,122 @@
+.Colleges-in-North-India{
+	  width: 180px;
+  height: 18px;
+  margin: 0 301px 53px 5px;
+  font-family: DINPro;
+  font-size: 18.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.97;
+  letter-spacing: normal;
+  text-align: left;
+  color: #444444;
+}
+img{
+	 width: 637.3px;
+	
+	 opacity: 0.4;
+}
+.image{
+	 background-color: #000000;
+	 position: relative;
+}
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: white;
+}
+.round{
+	position: absolute;
+	bottom: 8px;
+  left: 16px;
+	 width: 115px;
+  height: 14px;
+  text-align: center;
+   padding: 6px 18px 17px 17px;
+  border-radius: 16.5px;
+  background-color: white;
+}
+.round2{
+position: absolute;
+	bottom: 8px;
+  left: 181px;
+	 width: 75px;
+  height: 14px;
+  text-align: center;
+   padding: 6px 18px 17px 17px;
+  border-radius: 16.5px;
+  background-color: white;
+}
+.rating{
+	 position: absolute;
+  top: 8px;
+  right: 16px;
+	 width: 75px;
+  height: 58px;
+	
+  border-radius: 3.8px;
+  background-color: #f5a626;
+}
+.rating p{
+	 width: 57px;
+  height: 35px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: white;
+}
+.det{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 637.3px;
+
+}
+.colldet{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 40px;
+}
+.cost{
+	font-family: MyriadPro;
+	width: 95px;
+  height: 26px;
+
+  
+  font-size: 28.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.89;
+  letter-spacing: normal;
+  text-align: center;
+  color: #dd1c26;
+}
+.one{
+	border-radius: 3.8px;
+  box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
+ border: solid 0.2px #444444;
+  background-color: white;
+
+}
+.two{
+	border-radius: 3.8px;
+  box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
+  border: solid 0.2px #444444;
+  background-color: white;
+}
